@@ -2,6 +2,9 @@
 
 Complete the tasks in the Python Notebook in this repository.
 Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
+This is project is for web scraping
+Author name: Uma M Subramanian
+Repo link: https://github.com/umams2002/web-scraping
 
 ## Rubric
 
